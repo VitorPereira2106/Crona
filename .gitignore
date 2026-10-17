@@ -1,0 +1,25 @@
+# Metadados do Windows
+*:Zone.Identifier
+
+# Flutter / Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+*.jks
+*.iml
+.idea/
+
+# Windows (WSL)
+*:Zone.Identifier
+
+# Segredos
+.env
